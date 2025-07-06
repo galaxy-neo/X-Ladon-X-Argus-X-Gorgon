@@ -49,3 +49,7 @@ tiktok X-Argus X-Ladon X-Gorgon X-Khronos algorithm, device register algorithm
 ## telegram: @Neo_Galaxy
 
 # [Contact Telegram](https://t.me/Neo_Galaxy)
+
+### contact me
+## Contact Telegram @Neo_Galaxy
+https://t.me/Neo_Galaxy
