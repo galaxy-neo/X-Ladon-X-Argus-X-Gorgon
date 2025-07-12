@@ -4,6 +4,9 @@ X-Ladon-X-Argus-X-Gorgon-X-Khronos
 Tiktok Algorithm 
 
 ### Latest version available for testing
+### contact me
+**Contact for api :** [https://t.me/Neo_Galaxy](https://t.me/Neo_Galaxy)
+## telegram: @Neo_Galaxy
 
 
 # X-Ladon, X-Argus, X-Gorgon, X-Khronos, device register,
@@ -50,6 +53,3 @@ tiktok X-Argus X-Ladon X-Gorgon X-Khronos algorithm, device register algorithm
 
 # [Contact Telegram](https://t.me/Neo_Galaxy)
 
-### contact me
-## Contact Telegram @Neo_Galaxy
-https://t.me/Neo_Galaxy
