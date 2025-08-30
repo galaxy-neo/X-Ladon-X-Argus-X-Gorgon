@@ -10,9 +10,7 @@ Tiktok Algorithm
 
 # X-Ladon, X-Argus, X-Gorgon, X-Khronos, device register,
 tiktok X-Argus X-Ladon X-Gorgon X-Khronos algorithm, device register algorithm
-
 ## Tiktok Algorithm
-
 ### Device Register
 
 ```json
