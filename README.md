@@ -5,8 +5,8 @@ Tiktok Algorithm
 # test api last version
 ### Latest version available for testing
 ### contact me
-**Contact for api :** [https://t.me/Neo_Galaxy](https://t.me/Neo_Galaxy)
-## telegram: @Neo_Galaxy
+**Contact for api :** [https://t.me/alethino](https://t.me/alethino)
+## telegram: @alethino
 
 # X-Ladon, X-Argus, X-Gorgon, X-Khronos, device register,
 tiktok X-Argus X-Ladon X-Gorgon X-Khronos algorithm, device register algorithm
@@ -44,8 +44,8 @@ tiktok X-Argus X-Ladon X-Gorgon X-Khronos algorithm, device register algorithm
 
 #### user info test
 ### contact me
-**Contact for api :** [https://t.me/Neo_Galaxy](https://t.me/Neo_Galaxy)
-## telegram: @Neo_Galaxy
+**Contact for api :** [https://t.me/alethino](https://t.me/alethino)
+## telegram: @alethino
 
-# [Contact Telegram](https://t.me/Neo_Galaxy)
+# [Contact Telegram](https://t.me/alethino)
 
